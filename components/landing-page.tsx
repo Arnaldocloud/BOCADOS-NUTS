@@ -117,7 +117,7 @@ export function LandingPageComponent() {
         </div>
 
         {/* Feature section */}
-        <div id="sobre-nosotros" className="bg-[#FFF8E1] py-32 sm:py-32">
+        <div id="sobre-nosotros" className="bg-[#FFF8E1] py-32 sm:py-52">
           <div className="mx-auto max-w-7xl px-6 lg:px-8">
             <div className="mx-auto max-w-2xl lg:text-center">
               <h2 className="text-base font-semibold leading-7 text-[#2C8D3F]">Por qué elegir Bocados Nuts</h2>
@@ -164,7 +164,7 @@ export function LandingPageComponent() {
 
         {/* Product section */}
         <div id="productos" className="bg-[#FFF8E1]">
-          <div className="mx-auto max-w-2xl px-4 py-32 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
+          <div className="mx-auto max-w-2xl px-4 py-32 sm:px-6 sm:py-48 lg:max-w-7xl lg:px-8">
             <h2 className="text-3xl font-bold tracking-tight text-[#4A3728]">Nuestros Productos</h2>
             <div className="mt-6 grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8">
               {[
@@ -197,7 +197,7 @@ export function LandingPageComponent() {
         </div>
 
         {/* Testimonial section */}
-        <div id="testimonios" className="bg-[#FFF8E1] py-32 sm:py-32">
+        <div id="testimonios" className="bg-[#FFF8E1] py-32 sm:py-40">
           <div className="mx-auto max-w-7xl px-6 lg:px-8">
             <div className="mx-auto max-w-xl text-center">
               <h2 className="text-lg font-semibold leading-8 tracking-tight text-[#2C8D3F]">Testimonios</h2>
@@ -236,7 +236,7 @@ export function LandingPageComponent() {
         </div>
 
         {/* Contact section */}
-        <div id="contacto" className="bg-[#E8D5B5] py-32 sm:py-32">
+        <div id="contacto" className="bg-[#E8D5B5] py-32 sm:py-40">
           <div className="mx-auto max-w-7xl px-6 lg:px-8">
             <div className="mx-auto max-w-2xl lg:text-center">
               <h2 className="text-3xl font-bold tracking-tight text-[#4A3728] sm:text-4xl">Contáctanos</h2>
